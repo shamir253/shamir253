@@ -1,22 +1,4 @@
-# <span style=\"animation: typing 3s steps(30) infinitealternate\">Full-Stack Developer | AI Enthusiast</span>
-
-<!-- Typing animation (pure CSS) -->
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-</style>
-<style>
-.typing {
-  overflow: hidden;
-  border-right: .15em solid hsl(210, 20%, 90%);
-  white-space: nowrap;
-  width: 100%;
-  animation: typing 3s steps(30) infinitealternate;
-}
-</style>
-<div class="typing">Full-Stack Developer | AI Enthusiast</div>
+![Typing Header](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&lines=Full-Stack%20Developer%20%7C%20AI%20Enthusiast)
 
 ---
 
@@ -24,8 +6,8 @@
 
 | | |
 |-|-|
-| <img src=\"https://img.shields.io/github/downloads/shamir253/shamir253/total?label=Downloads&style=for-the-badge&color=brightgreen&logo=github\" alt=\"downloads\"/> | <img src=\"https://img.shields.io/github/stars/shamir253?label=Stars&style=for-the-badge&color=yellow&logo=github\" alt=\"stars\"/> |
-| <img src=\"https://img.shields.io/github/followers/shamir253?label=Followers&style=for-the-badge&color=red&logo=github\" alt=\"followers\"/> | <img src=\"https://img.shields.io/github/repos/shamir253?label=Repos&style=for-the-badge&color=green&logo=github\" alt=\"public repos\"/> |
+| <img src="https://img.shields.io/github/downloads/shamir253/shamir253/total?label=Downloads&style=for-the-badge&color=brightgreen&logo=github" alt="downloads"/> | <img src="https://img.shields.io/github/stars/shamir253?label=Stars&style=for-the-badge&color=yellow&logo=github" alt="stars"/> |
+| <img src="https://img.shields.io/github/followers/shamir253?label=Followers&style=for-the-badge&color=red&logo=github" alt="followers"/> | <img src="https://img.shields.io/github/repos/shamir253?label=Repos&style=for-the-badge&color=green&logo=github" alt="public repos"/> |
 
 ---
 
@@ -33,8 +15,8 @@
 
 | Backend | Frontend | Languages | Tools |
 |--------|----------|-----------|-------|
-| <img src=\"https://img.shields.io/badge/Node--js-339933?style=flat&logo=node.js&logoColor=white\"/><br> <img src=\"https://img.shields.io/badge/NestJs-339933?style=flat&logo=nestjs&logoColor=white\"/> | <img src=\"https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB\"/><br> <img src=\"https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white\"/> | <img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white\"/><br> <img src=\"https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white\"/><br> <img src=\"https://img.shields.io/badge/Java-007391?style=flat&logo=java&logoColor=white\"/><br> <img src=\"https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white\"/> | <img src=\"https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white\"/><br> <img src=\"https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white\"/> |
-  
+| <img src="https://img.shields.io/badge/Node--js-339933?style=flat&logo=node.js&logoColor=white"/><br><img src="https://img.shields.io/badge/NestJs-339933?style=flat&logo=nestjs&logoColor=white"/> | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/><br><img src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/><br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/><br><img src="https://img.shields.io/badge/Java-007391?style=flat&logo=java&logoColor=white"/><br><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/><br><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> |
+
 ---
 
 ## 👨‍💼 What I Do
@@ -48,10 +30,10 @@
 
 | Platform | Link |
 |----------|------|
-| <img src=\"https://img.shields.io/badge/LinkedIn-0072b5?style=flat&logo=linkedin&logoColor=white\"/> | [linkedin.com/in/shamir-ahmed-01288586](https://www.linkedin.com/in/shamir-ahmed-01288586/) |
+| <img src="https://img.shields.io/badge/LinkedIn-0072b5?style=flat&logo=linkedin&logoColor=white"/> | [linkedin.com/in/shamir-ahmed-01288586](https://www.linkedin.com/in/shamir-ahmed-01288586/) |
 
 ---
 
 ## 🎨 Theme (Dark‑Mode Friendly)
 
-The visual elements (icons, badges, and colour palette) are chosen to look great on both light and dark theme GitHub pages. Feel free to tweak the colour codes if you prefer a different accent.
+The visual elements (icons, badges, and colour palette) are chosen to look great on both light and dark GitHub themes.
