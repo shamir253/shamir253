@@ -1,4 +1,5 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&bg=000000&center=true&lines=Full-Stack%20Developer%20%7C%20AI%20Enthusiastic" alt="Typing SVG"/></p>
+<div style="background-color:#0d1117;color:#c9d1d9;padding:20px;border-radius:8px;">
 
 ---
 
@@ -43,3 +44,4 @@ Hello! I’m **Shamir Ahmed**, a **Full‑Stack Developer** with **10+ years of 
 ## 🎨 Theme (Dark‑Mode Friendly)
 
 The visual elements (icons, badges, and colour palette) are chosen to look great on both light and dark GitHub themes.
+</div>
