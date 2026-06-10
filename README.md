@@ -2,6 +2,12 @@
 
 ---
 
+## 👋 About Me
+
+Hello! I’m **Shamir Ahmed**, a **Full‑Stack Developer** with **10+ years of experience** building **AI‑powered applications** and **enterprise solutions**. I love turning complex problems into clean, maintainable code and delivering tools that automate and accelerate business processes.
+
+---
+
 ## 📊 GitHub Stats
 
 | | |
