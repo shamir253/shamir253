@@ -1,4 +1,4 @@
-![Typing Header](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&lines=Full-Stack%20Developer%20%7C%20AI%20Enthusiast)
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&lines=Full-Stack%20Developer%20%7C%20AI%20Enthusiastic" alt="Typing SVG"/></p>
 
 ---
 
