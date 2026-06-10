@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&bg=000000&center=true&lines=Full-Stack%20Developer%20%7C%20AI%20Enthusiastic" alt="Typing SVG"/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&bg=000000&center=true&lines=Full%20Stack%20Developer%20%7C%20AI%20Enthusiastic" alt="Typing SVG"/></p>
 <div style="background-color:#0d1117;color:#c9d1d9;padding:20px;border-radius:8px;">
 
 ---
@@ -22,7 +22,7 @@ Hello! I’m **Shamir Ahmed**, a **Full‑Stack Developer** with **10+ years of 
 
 | Backend | Frontend | Languages | Tools |
 |--------|----------|-----------|-------|
-| <img src="https://img.shields.io/badge/Node--js-339933?style=flat&logo=node.js&logoColor=white"/><br><img src="https://img.shields.io/badge/NestJs-339933?style=flat&logo=nestjs&logoColor=white"/> | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/><br><img src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/><br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/><br><img src="https://img.shields.io/badge/Java-007391?style=flat&logo=java&logoColor=white"/><br><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/><br><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/Node--js-339933?style=flat&logo=node.js&logoColor=white"/><br><img src="https://img.shields.io/badge/NestJs-339933?style=flat&logo=nestjs&logoColor=white"/><br><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white"/><br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/> | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/><br><img src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/><br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/><br><img src="https://img.shields.io/badge/Java-007391?style=flat&logo=java&logoColor=white"/><br><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/><br><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> |
 
 ---
 
